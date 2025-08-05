@@ -1,5 +1,5 @@
 ## Hey there! 👋 I'm Abdulquadri, the coding maestro!
-As a Data Engineer, I thrive on creating awesome applications that rock the digital world. With over 4 years of experience, I've mastered the art of Python and tamed the wild beasts called Azure and GCP. I can whip up data engineering pipelines like a pro!
+As a Data Engineer, I thrive on creating awesome applications that rock the digital world. With over 6 years of experience, I've mastered the art of Python and tamed the wild beasts called Azure and GCP. I can whip up data engineering pipelines like a pro!
 
 I am passionate about the work I do, but I am even more dedicated to cultivating a positive and efficient team environment.
 
